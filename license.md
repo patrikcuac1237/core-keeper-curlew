@@ -190,4 +190,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Core Keeper · Updated 2026-11-25 · Shared under the MIT License*
+*Core Keeper · Updated 2026-11-26 · Shared under the MIT License*
